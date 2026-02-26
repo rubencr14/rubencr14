@@ -20,7 +20,7 @@
 
 I am an eternal student of Artificial Intelligence with a deep-rooted passion for the hardcore mathematics that power foundational models. My primary obsession lies at the intersection of AI and **Computational Biology**, where I apply advanced machine learning techniques to accelerate **drug discovery** and **enzyme engineering**.
 
-Beyond the application layer, I am deeply fascinated by the theoretical foundations of deep learning. In my free time, I enjoy exploring differential geometry, particularly **tensor algebra**, **Riemannian manifolds**, and **parallel tensors**. Currently, I am moving down the stack to master hardware-level execution, writing custom kernels to understand the exact mechanics of GPU compute during training and inference.
+Beyond the application layer, I am deeply fascinated by the theoretical foundations of deep learning. In my free time, I enjoy exploring differential geometry, particularly **tensor algebra**, **Riemannian manifolds**, and **quantum operators**. Currently, I am moving down the stack to master hardware-level execution, writing custom kernels to understand the exact mechanics of GPU compute during training and inference.
 
 ---
 
