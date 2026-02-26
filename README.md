@@ -1,7 +1,7 @@
 # Hi there, I'm Rubén Cañadas 👋
 
 <p align="center">
-  <img src="background.png" alt="Rubén Cañadas banner" />
+  <img src="image.png" alt="Rubén Cañadas banner" />
 </p>
 
 ## 🧬 AI Researcher | Computational Biologist | HPC & Math Enthusiast
@@ -33,10 +33,12 @@ Beyond the application layer, I am deeply fascinated by the theoretical foundati
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubencr14&show_icons=true&theme=radical&v=1)](https://github.com/rubencr14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencr14&layout=compact&theme=radical&v=1)](https://github.com/rubencr14)
-
-</div>
+<p align="center">
+  <a href="https://github.com/rubencr14">
+    <img src="https://github-readme-stats.vercel.app/api?username=rubencr14&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/rubencr14">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubencr14&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
