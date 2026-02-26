@@ -10,11 +10,11 @@ Beyond the application layer, I am deeply fascinated by the theoretical foundati
 
 ### 🚀 What I'm up to
 
-- 🔭 **I’m currently working on:** Developing **[molfun](link-a-tu-repo)**, an open-source framework designed for finetuning structural and sequence models like *OpenFold*, *Boltz*, various biological embeddings, and *de novo* generation models such as *RFdiffusion*. The project is built to seamlessly test novel architectures and run comprehensive benchmarking.
+- 🔭 **I’m currently working on:** Developing **[molfun]([link-a-tu-repo](https://github.com/rubencr14/molfun)**, an open-source framework designed for finetuning structural and sequence models like *OpenFold*, *Boltz*, various biological embeddings, and *de novo* generation models such as *RFdiffusion*. The project is built to seamlessly test novel architectures and run comprehensive benchmarking.
 - 🌱 **I’m currently learning:** Low-level GPU architecture, custom kernel development (CUDA/Triton), and the intricate mechanics of hardware optimization for AI training and inference.
 - 👯 **I’m looking to collaborate on:** Open-source projects related to AI in biotech, structure-based drug design, foundational models for biology, or High-Performance Computing (HPC) optimizations.
 - 💬 **Ask me about:** Tensor algebra, Riemannian geometry, the mathematical proofs behind neural networks, and how AI is revolutionizing protein engineering.
-- 📫 **How to reach me:** [rubencr14@gmail.com](mailto:rubencr14@gmail.com) | [LinkedIn][(https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/rubencr14/)
+- 📫 **How to reach me:** [rubencr14@gmail.com](mailto:rubencr14@gmail.com) | [LinkedIn][(https://www.linkedin.com/in/rubencr14/)](https://www.linkedin.com/in/rubencr14/)
 - ⚡ **Fun fact:** I consider discussing Riemannian manifolds and parallel transport a perfectly valid and relaxing hobby.
 
 ---
@@ -24,3 +24,12 @@ Beyond the application layer, I am deeply fascinated by the theoretical foundati
 * **Domains:** Computational Biology, Drug Discovery, Protein Engineering, Deep Learning.
 * **Mathematics:** Linear & Tensor Algebra, Differential Geometry, Calculus.
 * **Engineering:** PyTorch, CUDA, Triton, GPU Optimization, HPC.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubencr14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubencr14&layout=compact&theme=radical"/>
+</div>
