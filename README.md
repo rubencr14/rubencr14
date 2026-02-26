@@ -14,7 +14,7 @@ Beyond the application layer, I am deeply fascinated by the theoretical foundati
 
 ### 🚀 What I'm up to
 
-- 🔭 **I’m currently working on:** Developing ****[molfun](https://github.com/rubencr14/molfun)****, an open-source framework designed for finetuning structural and sequence models like *OpenFold*, *Boltz*, various biological embeddings, and *de novo* generation models such as *RFdiffusion*. The project is built to seamlessly test novel architectures and run comprehensive benchmarking.
+- 🔭 **I’m currently working on:** Developing ****[MolFun](https://github.com/rubencr14/molfun)****, an open-source framework designed for finetuning structural and sequence models like *OpenFold*, *Boltz*, various biological embeddings, and *de novo* generation models such as *RFdiffusion*. The project is built to seamlessly test novel architectures and run comprehensive benchmarking.
 - 🌱 **I’m currently learning:** Low-level GPU architecture, custom kernel development (CUDA/Triton), and the intricate mechanics of hardware optimization for AI training and inference.
 - 👯 **I’m looking to collaborate on:** Open-source projects related to AI in biotech, structure-based drug design, foundational models for biology, or High-Performance Computing (HPC) optimizations.
 - 💬 **Ask me about:** Tensor algebra, Riemannian geometry, the mathematical proofs behind neural networks, and how AI is revolutionizing protein engineering.
