@@ -1,7 +1,7 @@
 # Hi there, I'm Rubén Cañadas 👋
 
 <p align="center">
-  <img src="github_repo.png" alt="Rubén Cañadas banner" />
+  <img src="background.png" alt="Rubén Cañadas banner" />
 </p>
 
 ## 🧬 AI Researcher | Computational Biologist | HPC & Math Enthusiast
