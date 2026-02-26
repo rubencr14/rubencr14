@@ -1,5 +1,9 @@
 # Hi there, I'm Rubén Cañadas 👋
 
+<p align="center">
+  <img src="github_repo.png" alt="Rubén Cañadas banner" />
+</p>
+
 ## 🧬 AI Researcher | Computational Biologist | HPC & Math Enthusiast
 
 I am an eternal student of Artificial Intelligence with a deep-rooted passion for the hardcore mathematics that power foundational models. My primary obsession lies at the intersection of AI and **Computational Biology**, where I apply advanced machine learning techniques to accelerate **drug discovery** and **enzyme engineering**.
